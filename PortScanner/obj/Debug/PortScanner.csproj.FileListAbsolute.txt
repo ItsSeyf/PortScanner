@@ -1,0 +1,7 @@
+D:\UAM\C#\PortScanner\PortScanner\bin\Debug\PortScanner.exe.config
+D:\UAM\C#\PortScanner\PortScanner\bin\Debug\PortScanner.exe
+D:\UAM\C#\PortScanner\PortScanner\bin\Debug\PortScanner.pdb
+D:\UAM\C#\PortScanner\PortScanner\obj\Debug\PortScanner.csproj.AssemblyReference.cache
+D:\UAM\C#\PortScanner\PortScanner\obj\Debug\PortScanner.csproj.CoreCompileInputs.cache
+D:\UAM\C#\PortScanner\PortScanner\obj\Debug\PortScanner.exe
+D:\UAM\C#\PortScanner\PortScanner\obj\Debug\PortScanner.pdb
